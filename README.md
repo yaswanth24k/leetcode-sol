@@ -23,6 +23,12 @@ Each folder contains:
 
 ---
 
+
+##🚀 Progress
+30+ problems solved and counting.
+
+---
+
 ## 🎯 Goals
 - Strengthen DSA concepts
 - Practice Java coding patterns
@@ -30,5 +36,7 @@ Each folder contains:
 - Maintain a clean, well-structured solution archive
 
 ---
+
+
 
 
