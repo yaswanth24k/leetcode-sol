@@ -25,7 +25,7 @@ Each folder contains:
 
 
 ##🚀 Progress
-40+ problems solved and counting.
+50+ problems solved and counting.
 
 ---
 
